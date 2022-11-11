@@ -1,0 +1,18 @@
+digraph TREE{
+	animal -> green
+	green -> frog
+	green -> big
+	big -> hoofed
+	hoofed -> horse
+	hoofed -> dog
+	big -> gray
+	gray -> mouse
+	gray -> cat
+	animal -> vedetmatan
+	vedetmatan -> vedetuFPMI
+	vedetuFPMI -> redkozubov
+	vedetuFPMI -> petrov
+	vedetmatan -> poet
+	poet -> pugachova
+	poet -> Ded
+}
